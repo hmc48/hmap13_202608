@@ -3,8 +3,8 @@
 "name": "geo_13_指定療養通所介護",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "療養通所介護センター梅ヶ丘【指定療養通所介護】東京都世田谷区松原六丁目３７番１号", "url": "https://www.kaigokensaku.mhlw.go.jp/13/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1391201280-00&ServiceCd=&Type=search", "url2": "http://www.tokyo-rehabili.jp/index.php" }, "geometry": { "type": "Point", "coordinates": [ 139.650629400000071, 35.6576848 ] } },
-{ "type": "Feature", "properties": { "内容": "ナーシングルームぽのぽの【指定療養通所介護】東京都葛飾区東金町３丁目41-27笑和の郷　1階", "url": "https://www.kaigokensaku.mhlw.go.jp/13/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1392201057-00&ServiceCd=&Type=search", "url2": "https://nursing-ponopono.com/" }, "geometry": { "type": "Point", "coordinates": [ 139.8718548, 35.7742945 ] } },
-{ "type": "Feature", "properties": { "内容": "ラピオンナーシングデイサービス【指定療養通所介護】東京都日野市豊田2-47-1ルネッサンスコート・とよだ1階", "url": "https://www.kaigokensaku.mhlw.go.jp/13/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1393500135-00&ServiceCd=&Type=search", "url2": "http://www.lapion-jp.com/nurse-station/" }, "geometry": { "type": "Point", "coordinates": [ 139.383033599999976, 35.6553946 ] } }
+{ "type": "Feature", "properties": { "内容": "療養通所介護センター梅ヶ丘【指定療養通所介護】東京都世田谷区松原六丁目３７番１号", "url2": "https://www.kaigokensaku.mhlw.go.jp/13/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1391201280-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.650629400000071, 35.6576848 ] } },
+{ "type": "Feature", "properties": { "内容": "ナーシングルームぽのぽの【指定療養通所介護】東京都葛飾区東金町３丁目41-27笑和の郷　1階", "url2": "https://www.kaigokensaku.mhlw.go.jp/13/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1392201057-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.8718548, 35.7742945 ] } },
+{ "type": "Feature", "properties": { "内容": "ラピオンナーシングデイサービス【指定療養通所介護】東京都日野市豊田2-47-1ルネッサンスコート・とよだ1階", "url2": "https://www.kaigokensaku.mhlw.go.jp/13/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1393500135-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.383033599999976, 35.6553946 ] } }
 ]
 }
